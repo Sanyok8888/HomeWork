@@ -19,7 +19,7 @@ public class CalculatorTest {
 
     @Test
     public void testDigitsAmongSymbolsCalculation() {
-        assertEquals(12, calculator.countDigitsAmongSymbols("lll3lll3lll3lll3"));
+        assertEquals(15, calculator.countDigitsAmongSymbols("lll3lll3lll3lll3ll3"));
     }
 
     @Test
