@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Exceptions message below (if available)");
         System.out.print(" ");
 
-        testExceptions.checkLogin("q2_");
+        testExceptions.checkLogin("q2_#");
         testExceptions.checkPasswordOrConfirmPassword("password____1111#","password____1111");
 
 
